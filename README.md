@@ -1,1 +1,1 @@
-# Representation-Learning-Parametric-Regression-Algorithms
+# Representation Learning and Parametric Regression-Algorithms
